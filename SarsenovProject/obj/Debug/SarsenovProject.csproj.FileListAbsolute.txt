@@ -1,0 +1,14 @@
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\bin\SarsenovProject.dll.config
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\bin\SarsenovProject.dll
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\bin\SarsenovProject.pdb
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.csprojAssemblyReference.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.csproj.CoreCompileInputs.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.dll
+C:\Users\Qolqanat Sarsenov\Source\Repos\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.pdb
+C:\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.csprojAssemblyReference.cache
+C:\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.csproj.CoreCompileInputs.cache
+C:\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.dll
+C:\SarsenovProject\SarsenovProject\obj\Debug\SarsenovProject.pdb
+C:\SarsenovProject\SarsenovProject\bin\SarsenovProject.dll.config
+C:\SarsenovProject\SarsenovProject\bin\SarsenovProject.dll
+C:\SarsenovProject\SarsenovProject\bin\SarsenovProject.pdb
